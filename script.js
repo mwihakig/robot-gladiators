@@ -1,5 +1,5 @@
 // Assignment code here
-window.prompt("Click button to generate new password");
+
 
 
 // Get references to the #generate element
